@@ -1,0 +1,37 @@
+body {
+    background-color: orangered;
+}
+
+.burger-form {
+    padding: 20px !important;
+    margin: 10px !important;
+    text-align: center;
+}
+
+.form-group, #daNewBurger{
+    text-align: center;
+    background-color: whitesmoke;
+    margin-bottom: 1rem;
+    font-size: medium;
+    font-family: 'Righteous', cursive;
+}
+
+li {
+    padding: 2%;
+    background: whitesmoke;
+    font-size: 3rem;
+}
+
+.title, .sub-title {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    color: white;
+}
+
+.sub-title {
+    font-size: 2rem;
+}
+
+.burger-nm {
+    font-family: 'Righteous', cursive;
+}
